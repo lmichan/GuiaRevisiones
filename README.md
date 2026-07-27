@@ -26,7 +26,7 @@ Esta guía consta de cuatro partes: en la primera se definen las revisiones y su
 
 Al finalizar esta guía podrás distinguir entre los diferentes tipos de revisiones, reconocer los objetivos metodológicos de las mismas y cómo sus resultados pueden fortalecer tus propias investigaciones. 
 
-## PARTE 1. Esto son:
+## PARTE 1. ¿QUÉ SON LAS REVISIONES Y CUÁLES SON SUS TIPOS?
 En esta parte nos centraremos en qué son las revisiones, hablaremos de su historia y sus características.
 
 Una revisión de literatura consiste en un trabajo de investigación que utiliza como fuente documentos, generalmente son artículos científicos o ensayos clínicos, aunque se puede hacer usando cualquier tipo documental, el objetivo siempre es reunir la literatura mas relevante, integrarla, exponerla y explicarla. 
@@ -86,7 +86,7 @@ Esta guía está diseñada para exponer cada una de las revisiones con base en c
 4. Aplicaciones
 5. Ejemplos
 
-## PARTE 2: Esto contienen:
+## PARTE 2: PARTES DE LAS REVISIONES Y SU CONTENIDO
 ### Anatomía de las revisiones
 Ahora conozcamos la estructura general que tienen las revisiones y qué puedes encontrar en cada sección
 
@@ -122,7 +122,7 @@ Puedes encontrar esta información en el título o en el resumen
 
 **Paso 8.** Evalúa la conclusión
 
-###Las herramientas
+### Las herramientas
 Existen una gran cantidad de tecnologías informáticas que se han utilizado para realizar revisiones de literatura, en esta sección nos dedicaremos a enumerararlas y explicarlas.
 
 Preregistro
