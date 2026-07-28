@@ -92,14 +92,14 @@ Ahora conozcamos la estructura general que tienen las revisiones y qué puedes e
 
 | Sección de la revisión | Contenido / Qué puedes esperar de ella |
 | ------------ | ------------ |
-| Título | Se suele encontrar el tipo de revisión en cuestión |
-| Resumen o Abstract | Celda 2, |
-| Introducción | Celda 2,2  |
-| Metodología | Celda 2,2  |
-| Resultados | Celda 2,2  |
-| Discusión | Celda 2,2 |
-| Conclusión | Celda 2,2  |
-| Material suplementario | Celda  |
+| Título | Indica el tema principal y, cuando es posible, el tipo de revisión realizada. |
+| Resumen o Abstract | Presenta de manera resumida el contexto, objetivo, métodos, fuentes consultadas, criterios principales, número de estudios incluidos, resultados más importantes, limitaciones y conclusión. En las revisiones sistemáticas también puede señalar el registro del protocolo. |
+| Introducción | Explica el contexto y la importancia del problema, resume lo que ya se conoce, identifica el vacío de conocimiento y presenta el objetivo o la pregunta de investigación de la revisión. |
+| Metodología | Describe cómo se realizó la revisión: protocolo y registro, criterios de inclusión y exclusión, bases de datos y otras fuentes consultadas, estrategia y fecha de búsqueda, selección de estudios, extracción de datos, evaluación de calidad o riesgo de sesgo y método de síntesis. |
+| Resultados | Informa cuántos documentos se encontraron, excluyeron e incluyeron; describe las características de los estudios y presenta los hallazgos individuales y sintetizados. También puede incluir diagramas, tablas, metaanálisis, análisis de heterogeneidad y evaluación de la certeza de la evidencia. |
+| Discusión | Interpreta el significado de los resultados, los compara con conocimientos anteriores y analiza su aplicabilidad. También explica las fortalezas y limitaciones de la evidencia y de la propia revisión, así como sus implicaciones para la investigación o la práctica. |
+| Conclusión | Responde de manera breve a la pregunta de investigación y resume qué puede afirmarse a partir de la evidencia |
+| Material suplementario | Contiene información necesaria para verificar o reutilizar el trabajo, como estrategias de búsqueda completas, listas de estudios excluidos y razones de exclusión, formularios de extracción, evaluaciones de sesgo, tablas adicionales, conjuntos de datos y otros materiales.  |
 
 
 ### Paso a paso: Cómo identificarlas/interpretarlas  
