@@ -90,7 +90,7 @@ Esta guía está diseñada para exponer cada una de las revisiones con base en c
 ### Anatomía de las revisiones
 Ahora conozcamos la estructura general que tienen las revisiones y qué puedes encontrar en cada sección
 
-| Sección de la revisión | Contenido que puedes esperar de ella |
+| Sección de la revisión | Contenido que puedes esperar en esa sección |
 | ------------ | ------------ |
 | Título | Indica el tema principal y, cuando es posible, el tipo de revisión realizada. |
 | Resumen o Abstract | Presenta de manera resumida el contexto, objetivo, métodos, fuentes consultadas, criterios principales, número de estudios incluidos, resultados más importantes, limitaciones y conclusión. En las revisiones sistemáticas también puede señalar el registro del protocolo. |
