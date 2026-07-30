@@ -145,9 +145,9 @@ Saquat
 https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Artificial+intelligence%22%5BTitle%5D+review%5BTitle%5D%29+AND+%28%28%222026%2F01%2F01%22%5BDate+-+Publication%5D+%3A+%223000%22%5BDate+-+Publication%5D%29%29&sort=pubdate&filter=pubt.review&filter=pubt.review
 
 ### Plus: indicadores de calidad metodológica
-| Red flags 🚩 | Green flags ✅ |
-|---|---|
-| <ul><li>No dicen cómo buscaron la información</li><li>No dicen cuántos estudios incluyeron</li><li>No explican criterios de inclusión/exclusión</li><li>Concluye más de los que sus datos permiten</li><li>No diferencian entre ausencia de evidencia y evidencia de ausencia</li></ul> | <ul><li>Explican claramente la estrategia de búsqueda</li><li>Hicieron una búsqueda replicable</li><li>Tienen criterios de inclusión y exclusión bien definidos</li><li>Tienen conclusiones proporcionales a la evidencia </li><ul> |
+| Aspecto | Red flags 🚩 | Green flags ✅ |
+|---|---|---|
+|xd| <ul><li>No dicen cómo buscaron la información</li><li>No dicen cuántos estudios incluyeron</li><li>No explican criterios de inclusión/exclusión</li><li>Concluye más de los que sus datos permiten</li><li>No diferencian entre ausencia de evidencia y evidencia de ausencia</li></ul> | <ul><li>Explican claramente la estrategia de búsqueda</li><li>Hicieron una búsqueda replicable</li><li>Tienen criterios de inclusión y exclusión bien definidos</li><li>Tienen conclusiones proporcionales a la evidencia </li><ul> |
 
 
 ## PARTE 3. EJEMPLOS, PLANTILLAS Y RECURSOS
