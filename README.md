@@ -152,7 +152,8 @@ https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Artificial+intelligence%22%5BTitle%5
 
 ## PARTE 3. EJEMPLOS, PLANTILLAS Y RECURSOS
 ### Plantilla a llenar cuando tengas una revisión
-A continuación te proponemos un formulario descargable que puedes llenar para todas las revisiones que desees interpretar:
+A continuación te proponemos un formulario descargable que puedes llenar para todas las revisiones que desees interpretar: [Plantilla para entender una revisión.pdf](https://github.com/user-attachments/files/30673609/Plantilla.para.entender.una.revision.pdf)
+
 
 
 ### Ejercicio
