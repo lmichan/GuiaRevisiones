@@ -171,7 +171,7 @@ En conclusión, los siguientes datos pueden ayudarte para entender una revisión
 
 ### Recursos recomendados
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
-- LivingReviews Colección de revisiones vivas 
+- LivingReviews Colección de revisiones vivas https://www.zotero.org/groups/6122210/livingreviews/library 
 - Biometa-análisis Literatura teórico metodológica sobre revisiones de literatura disponible en https://www.zotero.org/groups/6101018/biometaanalisis/items/M8EIH2R2/library 
 
 
