@@ -157,7 +157,17 @@ A continuación te proponemos un formulario descargable que puedes llenar para t
 
 ### Checklist final 
 En conclusión, los siguientes datos pueden ayudarte para entender una revisión: 
-* xd
+* Tipo de revisión
+* Tema a tratar según el título
+* Pregunta u objetivo de la revisión
+* Fecha en que hicieron la búsqueda
+* Nombres de bases de datos consultadas
+* Criterios de inclusión
+* Criterios de exclusión
+* Número de estudios incluidos
+* Resultado principal
+* Limitaciones que el autor reconoce o que tú detectas
+* Conclusión propia ¿Qué puede afirmarse y qué permanece incierto?
 
 ### Recursos recomendados
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
