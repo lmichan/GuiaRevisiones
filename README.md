@@ -104,23 +104,56 @@ Ahora conozcamos la estructura general que tienen las revisiones y qué puedes e
 
 ### Paso a paso: Cómo identificarlas/interpretarlas  
 **Paso 1.** Identifica el tipo de revisión 
-Puedes encontrar esta información en el título o en el resumen 
+
+Primero, determina qué tipo de revisión estás leyendo: narrativa, de alcance, sistemática, integrativa, bibliométrica, paraguas, entre otras. **Esta información suele aparecer en el título, en el resumen o en la sección de metodología.**
+Conocer el tipo de revisión es importante porque cada una responde preguntas diferentes y utiliza métodos distintos. Por ejemplo, una revisión de alcance busca mostrar qué se ha investigado sobre un tema amplio, mientras que una revisión sistemática intenta responder una pregunta específica mediante un método explícito y reproducible.
+También es posible que una revisión combine distintas características. Por ejemplo, puede ser una revisión sistemática, incluir un metaanálisis y, al mismo tiempo, mantenerse actualizada como una revisión viva.
 
 **Paso 2.** Ubica la pregunta de investigación
-¿Qué se quería saber con la revisión? Esto suele encontrarse en... 
+Identifica qué querían conocer los autores mediante la revisión. **La pregunta o el objetivo suele encontrarse en el resumen y al final de la introducción.** También puede aparecer expresado mediante frases como “el objetivo de esta revisión fue…”, “esta revisión busca determinar…” o “se investigó si…”.
+La pregunta de investigación te ayudará a interpretar todo el artículo, ya que establece qué población, fenómeno, intervención, comparación o resultado se quería estudiar. Antes de revisar las conclusiones, comprueba que estas respondan realmente a la pregunta planteada.
+Si no puedes identificar con claridad qué intentaba responder la revisión, podría ser una señal de que su objetivo está poco definido.
 
 **Paso 3.** Revisa dónde buscaron
-¿Qué bases de datos usaron? Esta información es opcional y puedes consultarla solo si deseas profundizar en la exploración de la revisión 
+Consulta qué bases de datos y otras fuentes de información utilizaron los autores. **Esta información se encuentra generalmente en la sección de metodología y, en algunos casos, en el material suplementario.**
+Entre las fuentes más utilizadas se encuentran PubMed, Scopus, Web of Science, Embase, Cochrane Library y Google Scholar. Según el tema, también pueden haberse consultado repositorios de tesis, registros de ensayos clínicos, listas de referencias, sitios institucionales o literatura gris.
+Revisar dónde buscaron permite valorar qué tan amplia fue la búsqueda. Ninguna base de datos reúne toda la literatura existente, por lo que una revisión que consulta varias fuentes pertinentes tiene mayores posibilidades de identificar los estudios relevantes.
+También es importante observar hasta qué fecha se realizó la búsqueda, ya que esto permite saber qué tan actualizada está la revisión.
 
-**Paso 4.** Revisa qué tipo de artículos analizaron y cuáles excluyeron
+**Paso 4.** 
+Busca los criterios de inclusión y exclusión utilizados por los autores. Estos criterios indican qué características debía tener un estudio para formar parte de la revisión y por qué algunos documentos fueron descartados.
+Por ejemplo, los autores pueden haber decidido incluir únicamente ensayos clínicos, estudios realizados en personas adultas, investigaciones publicadas en ciertos idiomas o artículos que evaluaran una intervención específica.
+Los criterios deben corresponder con la pregunta de investigación y haber sido definidos antes de seleccionar los estudios. Unos criterios demasiado restrictivos pueden dejar fuera información importante, mientras que unos criterios demasiado amplios pueden reunir estudios que no sean suficientemente comparables.
+En las revisiones sistemáticas también es conveniente revisar si los autores explican cómo realizaron la selección y cómo resolvieron los desacuerdos entre revisores.
 
 **Paso 5.** Identifica cuántos estudios analizaron 
+Localiza cuántos estudios fueron incluidos finalmente en la revisión. **Esta información suele aparecer en el resumen, en la sección de resultados, en una tabla de características o en un diagrama de flujo.**
+Es importante distinguir entre el número de registros encontrados y el número de estudios incluidos. Una búsqueda puede recuperar miles de registros, pero después de eliminar duplicados y aplicar los criterios de selección, solamente una parte de ellos será analizada.
+El número de estudios no determina por sí mismo la calidad de una revisión. Una revisión con pocos estudios puede ser rigurosa si la evidencia disponible es limitada, mientras que una revisión con muchos estudios puede presentar problemas si estos son de baja calidad o demasiado diferentes entre sí.
+Además del número, revisa las características de los estudios: tamaño de las muestras, países, poblaciones, diseños metodológicos, intervenciones y periodos analizados.
 
 **Paso 6.** Interpreta los resultados principales
+Identifica cuál fue el hallazgo central de la revisión y cómo se relaciona con la pregunta de investigación. **Los resultados suelen encontrarse en el resumen, en la sección de resultados y en las tablas o figuras.**
+No te limites a revisar si el resultado fue “positivo”, “negativo” o estadísticamente significativo. Observa también la magnitud del efecto, su dirección, la precisión de las estimaciones y la consistencia entre los estudios.
+Si la revisión incluye un metaanálisis, normalmente encontrarás una estimación combinada acompañada de un intervalo de confianza. Un intervalo amplio indica mayor incertidumbre, mientras que uno más estrecho representa una estimación más precisa. También puede analizarse la heterogeneidad, es decir, qué tan diferentes son los resultados de los estudios incluidos.
+En una síntesis cualitativa, los resultados pueden presentarse como temas, patrones, categorías, explicaciones o coincidencias entre los estudios.
+Es importante distinguir entre tres situaciones:
+* Existe evidencia de que algo produce o no produce un efecto.
+* La evidencia disponible es contradictoria o incierta.
+* No existen estudios suficientes para llegar a una conclusión.
+La ausencia de evidencia no significa automáticamente que se haya demostrado que algo no funciona o no existe.
 
 **Paso 7.** Lee las limitaciones
+Las limitaciones indican qué aspectos podrían disminuir la confianza en los resultados. **Generalmente se encuentran en la discusión, aunque algunas también pueden aparecer en la metodología o en la evaluación de calidad.**
+Una revisión puede tener limitaciones porque existen pocos estudios, las muestras son pequeñas, los diseños presentan riesgo de sesgo, los resultados son muy diferentes entre sí o la búsqueda no cubrió todas las fuentes relevantes.
+También es necesario distinguir entre las limitaciones de los estudios incluidos y las limitaciones de la propia revisión. Por ejemplo, los estudios originales pueden haber utilizado mediciones poco precisas, mientras que la revisión puede haber restringido la búsqueda a determinados idiomas o fechas.
+Reconocer las limitaciones no significa que la revisión sea inútil. Permite comprender hasta dónde llegan sus resultados y qué preguntas todavía no pueden responderse con seguridad.
 
 **Paso 8.** Evalúa la conclusión
+Finalmente, comprueba si la conclusión responde a la pregunta de investigación y si es proporcional a los resultados obtenidos.
+Una buena conclusión distingue entre lo que la evidencia permite afirmar, aquello que permanece incierto y lo que todavía necesita estudiarse. También evita generalizar los resultados a poblaciones, contextos o intervenciones que no fueron analizados.
+Desconfía de conclusiones demasiado categóricas cuando existen pocos estudios, resultados contradictorios, muestras pequeñas o evidencia de baja calidad. Expresiones como “la evidencia sugiere”, “podría existir un efecto” o “no hay evidencia suficiente” pueden ser más apropiadas que afirmar que algo está completamente demostrado.
+Recuerda que la conclusión escrita por los autores es una interpretación de los resultados. Por ello, es recomendable compararla con las tablas, las figuras, la evaluación de calidad y las limitaciones antes de aceptarla.
 
 ### Las herramientas
 Existen una gran cantidad de tecnologías informáticas que se han utilizado para realizar revisiones de literatura, en esta sección nos dedicaremos a enumerararlas y explicarlas.
