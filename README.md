@@ -155,10 +155,9 @@ https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Artificial+intelligence%22%5BTitle%5
 A continuación te proponemos un formulario descargable que puedes llenar para todas las revisiones que desees interpretar: [Plantilla para entender una revisión.pdf](https://github.com/user-attachments/files/30673609/Plantilla.para.entender.una.revision.pdf)
 
 
-
-### Ejercicio
-
 ### Checklist final 
+En conclusión, los siguientes datos pueden ayudarte para entender una revisión: 
+* xd
 
 ### Recursos recomendados
 Hemos reunido literatura sobre varios tópicos de interes sobre las revisiones:
